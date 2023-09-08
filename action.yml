@@ -1,6 +1,6 @@
-name: Docker Remote Deployment
+name: Docker-Compose Remote Deploy
 author: ws
-description: adapted from Wernich Bekker<wernich.bekker+dev@gmail.com>
+description: adapted from Wernich Bekker<wernich.bekker+dev@gmail.com>, update with latest docker-compose
 inputs:
   remote_docker_host:
     description: Remote Docker host ie (user@host)
